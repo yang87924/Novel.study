@@ -1,0 +1,31 @@
+E:\教案\录播课\20230823-ABP 案例实战\课件\End\Sample.Novel\src\Sample.Novel.Domain\bin\Debug\net5.0\Sample.Novel.Domain.deps.json
+E:\教案\录播课\20230823-ABP 案例实战\课件\End\Sample.Novel\src\Sample.Novel.Domain\bin\Debug\net5.0\Sample.Novel.Domain.dll
+E:\教案\录播课\20230823-ABP 案例实战\课件\End\Sample.Novel\src\Sample.Novel.Domain\obj\Debug\net5.0\Sample.Novel.Domain.csproj.AssemblyReference.cache
+E:\教案\录播课\20230823-ABP 案例实战\课件\End\Sample.Novel\src\Sample.Novel.Domain\obj\Debug\net5.0\Sample.Novel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\教案\录播课\20230823-ABP 案例实战\课件\End\Sample.Novel\src\Sample.Novel.Domain\obj\Debug\net5.0\Sample.Novel.Domain.AssemblyInfoInputs.cache
+E:\教案\录播课\20230823-ABP 案例实战\课件\End\Sample.Novel\src\Sample.Novel.Domain\obj\Debug\net5.0\Sample.Novel.Domain.AssemblyInfo.cs
+D:\home\video\000-ABP vNext 零基础开发案例\Zhaoxi.Novel\src\Sample.Novel.Domain\bin\Debug\net5.0\Sample.Novel.Domain.deps.json
+D:\home\video\000-ABP vNext 零基础开发案例\Zhaoxi.Novel\src\Sample.Novel.Domain\bin\Debug\net5.0\Sample.Novel.Domain.dll
+D:\home\video\000-ABP vNext 零基础开发案例\Zhaoxi.Novel\src\Sample.Novel.Domain\bin\Debug\net5.0\Sample.Novel.Domain.pdb
+D:\home\video\000-ABP vNext 零基础开发案例\Zhaoxi.Novel\src\Sample.Novel.Domain\obj\Debug\net5.0\Sample.Novel.Domain.csproj.AssemblyReference.cache
+D:\home\video\000-ABP vNext 零基础开发案例\Zhaoxi.Novel\src\Sample.Novel.Domain\obj\Debug\net5.0\Sample.Novel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\video\000-ABP vNext 零基础开发案例\Zhaoxi.Novel\src\Sample.Novel.Domain\obj\Debug\net5.0\Sample.Novel.Domain.AssemblyInfoInputs.cache
+D:\home\video\000-ABP vNext 零基础开发案例\Zhaoxi.Novel\src\Sample.Novel.Domain\obj\Debug\net5.0\Sample.Novel.Domain.AssemblyInfo.cs
+D:\home\video\000-ABP vNext 零基础开发案例\Zhaoxi.Novel\src\Sample.Novel.Domain\obj\Debug\net5.0\Sample.Novel.Domain.csproj.CoreCompileInputs.cache
+D:\home\video\000-ABP vNext 零基础开发案例\Zhaoxi.Novel\src\Sample.Novel.Domain\obj\Debug\net5.0\Sample.Novel.Domain.dll
+D:\home\video\000-ABP vNext 零基础开发案例\Zhaoxi.Novel\src\Sample.Novel.Domain\obj\Debug\net5.0\refint\Sample.Novel.Domain.dll
+D:\home\video\000-ABP vNext 零基础开发案例\Zhaoxi.Novel\src\Sample.Novel.Domain\obj\Debug\net5.0\Sample.Novel.Domain.pdb
+D:\home\video\000-ABP vNext 零基础开发案例\Zhaoxi.Novel\src\Sample.Novel.Domain\obj\Debug\net5.0\ref\Sample.Novel.Domain.dll
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\bin\Debug\net5.0\Sample.Novel.Domain.deps.json
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\bin\Debug\net5.0\Sample.Novel.Domain.dll
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\bin\Debug\net5.0\Sample.Novel.Domain.pdb
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net5.0\Sample.Novel.Domain.csproj.AssemblyReference.cache
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net5.0\Sample.Novel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net5.0\Sample.Novel.Domain.AssemblyInfoInputs.cache
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net5.0\Sample.Novel.Domain.AssemblyInfo.cs
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net5.0\Sample.Novel.Domain.csproj.CoreCompileInputs.cache
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net5.0\Sample.Novel.Domain.sourcelink.json
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net5.0\Sample.Novel.Domain.dll
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net5.0\refint\Sample.Novel.Domain.dll
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net5.0\Sample.Novel.Domain.pdb
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net5.0\ref\Sample.Novel.Domain.dll

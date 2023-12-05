@@ -1,0 +1,12 @@
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Application.Contracts\bin\Debug\net8.0\Sample.Novel.Application.Contracts.deps.json
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Application.Contracts\bin\Debug\net8.0\Sample.Novel.Application.Contracts.dll
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Application.Contracts\bin\Debug\net8.0\Sample.Novel.Application.Contracts.pdb
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Application.Contracts\obj\Debug\net8.0\Sample.Novel.Application.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Application.Contracts\obj\Debug\net8.0\Sample.Novel.Application.Contracts.AssemblyInfoInputs.cache
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Application.Contracts\obj\Debug\net8.0\Sample.Novel.Application.Contracts.AssemblyInfo.cs
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Application.Contracts\obj\Debug\net8.0\Sample.Novel.Application.Contracts.csproj.CoreCompileInputs.cache
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Application.Contracts\obj\Debug\net8.0\Sample.Novel.Application.Contracts.sourcelink.json
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Application.Contracts\obj\Debug\net8.0\Sample.Novel.Application.Contracts.dll
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Application.Contracts\obj\Debug\net8.0\refint\Sample.Novel.Application.Contracts.dll
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Application.Contracts\obj\Debug\net8.0\Sample.Novel.Application.Contracts.pdb
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Application.Contracts\obj\Debug\net8.0\ref\Sample.Novel.Application.Contracts.dll

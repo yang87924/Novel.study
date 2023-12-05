@@ -1,0 +1,13 @@
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\bin\Debug\net8.0\Novel.Domain.deps.json
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\bin\Debug\net8.0\Novel.Domain.dll
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\bin\Debug\net8.0\Novel.Domain.pdb
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net8.0\Novel.Domain.csproj.AssemblyReference.cache
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net8.0\Novel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net8.0\Novel.Domain.AssemblyInfoInputs.cache
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net8.0\Novel.Domain.AssemblyInfo.cs
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net8.0\Novel.Domain.csproj.CoreCompileInputs.cache
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net8.0\Novel.Domain.sourcelink.json
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net8.0\Novel.Domain.dll
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net8.0\refint\Novel.Domain.dll
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net8.0\Novel.Domain.pdb
+D:\home\study\my\ABP\Zhaoxi.Novel.study\Sample.Novel.Domain\obj\Debug\net8.0\ref\Novel.Domain.dll
